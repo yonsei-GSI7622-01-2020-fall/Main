@@ -3,50 +3,44 @@
 
 ## Course Description
 
-머신러닝 트렌드가 지속됨에 따라 많은 사람들이 데이터의 수집/처리, 그리고 모델의 트레이닝 대해서 많은 관심을 갖고 학습을 하고 있습니다. 본 강좌에서는 모델의 학습 이후 단계인 배포 부분에 관해 중점적으로 다룰 것이고, 더 나아가 일반적인 모델(이미지 분류, 음성인식, 자연어 처리)을 응용해서 실무에 쓰일 법한 서비스 개발에 대해 배울 것입니다. 강좌 진행 과정 중 다양한 소프트웨어와 서비스를 사용할 것이고, 전문적인 개발자는 아니지만, Working Prototype 정도는 개발할 수 있는 능력 함양을 목표로 합니다.
+머신러닝 트렌드가 지속됨에 따라 많은 사람들이 데이터의 수집/처리, 그리고 모델의 트레이닝 대해서 많은 관심을 갖고 학습을 하고 있습니다. 본 강좌에서는 모델의 학습 이후 단계인 배포 부분에 관해 중점적으로 다룰 것이고, 더 나아가 일반적인 모델(이미지 분류, 음성인식, 자연어 처리)을 응용해서 실무에 쓰일 법한 서비스 개발에 대해 배울 것입니다. 강좌 진행 과정 중 다양한 소프트웨어와 서비스를 사용할 것이고, 전문적인 개발자는 아니지만, Working Prototype 수준의 개발을 할 수 있는 능력 함양을 목표로 합니다.
 
 
 ### Why you should know this
 
-데이터 과학자가 되기 위해서 또는 데이터 사이언스 관련 업무를 하기 위해서는 단순히 이론적인 지식만으로는 부족합니다. 다양한 상황에 맞게 데이터 확보 및 처리를 할 수 있는 프로그래밍 능력이 뒷받침돼야 하며, 데이터베이스 또는 네트워크에 대한 이해도 또한 중요합니다. 이번 수업을 통해 꼭 Practical 한 Skill 들을 많이 얻어가시기 바라겠습니다.
+주피터 노트북이나 콘솔에서만 진행 되어온 데이터 수집/전처리/학습을 실제 프로덕트로서 배포(deploy)를 하는 방법을 익히기 위해
 
 ## Prerequisites:  
-선수과목이 없지만, 프로그래밍 수업을 들어보셨던 분들에게는 조금 더 수월한 과목이 될 것입니다.
+정형/비정형 데이터 분석, 파이썬 프로그래밍
 
 ## Learning Outcomes
 
 학기말이 되면 여러분들은 다음과 같은 것들을 할 수 있게됩니다.
 
-1. 파이썬 프로그래밍
+1. 파이썬을 이용한 웹 프로그래밍
 1. 데이터베이스-웹서버 셋팅
-1. Scikit Learn을 이용한 머신러닝
-1. Hadoop과 Spark에 대한 이해
+1. 상용 AI관련 API 적용 및 배포
 1. AWS, Github, Shell 환경 활용
 
 ## Schedule
 
-**Course Dates:** 2020.09.04(금) – 2020.12.18(금) (16 weeks)
+**Course Dates:** 2020.09.05(토) – 2020.11.28(토) (11 weeks)
 
-**Class Times:** 금요일 1-3교시(9시-12시) (14 class sessions)
+**Class Times:** 토요일 1-3교시(9시-12시) (10 class sessions)
 
 | Class |          Date          |                 Topics                  |                 Assignment                  |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  9월 4일               | [Lecture 1] | [Assignment 1] |
-|  2 |  9월 11일               | Lecture 2 |  TBD |
-|  3 |  9월 18일               | Lecture 3 | TBD |
-|  4 |  9월 25일               | Lecture 4 | TBD |
-|  - |  10월 2일               | **추석연휴** | TBD |
-|  - |  10월 9일               | **한글날** | TBD |
-|  5 |  10월 16일               | Lecture 5 | TBD |
-|  6 |  10월 23일               | Lecture 6 | TBD |
-|  7 |  10월 30일               | Lecture 7 | TBD |
-|  8 |  11월 6일              | Lecture 8 | TBD |
-|  9 |  11월 13일              | Lecture 9 | TBD |
-|  10 |  11월 20일              | Lecture 10 | TBD |
-| 11 |  11월 27일              | Lecture 11 | TBD |
-| 12 |  12월 4일              | Lecture 12 | TBD |
-| 13 |  12월 11일              | Lecture 13 | TBD |
-| 14 |  12월 18일                | Lecture 14 | TBD |
+|  1 |  9월 5일                 | [Lecture 1] | [Assignment 1] |
+|  2 |  9월 12일                | Lecture 2 |  TBD |
+|  3 |  9월 19일                | Lecture 3 | TBD |
+|  4 |  9월 26일                | Lecture 4 | TBD |
+|  - |  10월 3일                | **추석연휴** | TBD |
+|  5 |  10월 10일               | Lecture 5 | TBD |
+|  6 |  10월 17일               | Lecture 6 | TBD |
+|  7 |  10월 24일               | Lecture 7 | TBD |
+|  8 |  10월 31일               | Lecture 8 | TBD |
+|  9 |  11월 7일                | Lecture 9 | TBD |
+|  10 |  11월 14일              | Lecture 10 | TBD |
 
 
 
@@ -62,10 +56,6 @@
 [Lecture 8]: lecture/week-08
 [Lecture 9]: lecture/week-09
 [Lecture 10]: lecture/week-10
-[Lecture 11]: lecture/week-11
-[Lecture 12]: lecture/week-12
-[Lecture 13]: lecture/week-13
-[Lecture 14]: lecture/week-14
 
 [Assignment 1]: assignment/week-01/README.md
 
@@ -74,7 +64,7 @@
 
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
-| [Assignment 1]                      |  금, 9월 4일  |  목, 9월 10일 | 
+| [Assignment 1]                      |  토, 9월 5일  |  금, 9월 11일 | 
 
 
 
@@ -107,7 +97,7 @@
 
 ## Tools
 
-- [Slack](https://gsi7564-012020-fall.slack.com/) - 모든 커뮤니케이션은 슬랙을 통해서 해주세요! (특별한 경우에만 이메일로)
+- [Slack](https://gsi7622-012020-fall.slack.com/) - 모든 커뮤니케이션은 슬랙을 통해서 해주세요! (특별한 경우에만 이메일로)
 - [Kahoot](https://kahoot.it) - 퀴즈때 사용할 서비스입니다.
 - [Cohoot](https://cohoot.link) - 수업 중 코드 복/붙을 위한 서비스입니다.
-- [Yscec](https://yscec.yonsei.ac.kr/course/view.php?id=171952) - 성적 확인용입니다.
+- [Yscec](https://yscec.yonsei.ac.kr/course/view.php?id=171934) - 성적 확인용입니다.
