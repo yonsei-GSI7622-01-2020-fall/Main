@@ -30,7 +30,7 @@
 
 | Class |          Date          |  Topic  |        Detail      |        Assignment         | FAQ |
 |:-----:|:----------------------:|:-------:|:------------------:|:-------------------------:|:---:|
-|  1 |  9월 5일                 | | [Lecture 1] | [Assignment 1] | |
+|  1 |  9월 5일                 | | [Lecture 1] | [Assignment 1] | [FAQ 1] |
 |  2 |  9월 12일                | | Lecture 2 |  TBD | |
 |  3 |  9월 19일                | | Lecture 3 | TBD | |
 |  4 |  9월 26일                | | Lecture 4 | TBD | |
@@ -58,6 +58,7 @@
 [Lecture 10]: lecture/week-10
 
 [Assignment 1]: assignment/week-01/README.md
+[FAQ 1]: FAQ.md
 
 ## Assignment Schedule 
 
