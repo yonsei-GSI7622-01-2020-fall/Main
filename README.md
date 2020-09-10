@@ -98,5 +98,9 @@
 
 
 ## Resources
-- 딥러닝 기본: [모두의 딥러닝](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&ab_channel=SungKim) by 홍콩과기대 김성훈 교수님
-- 머신러닝 전반에 대한 교재: [핸즈온 머신러닝](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237677114)
+- 머신러닝 기본
+    - [Machine Learning](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne) by Andrew Ng
+- 딥러닝 기본
+    - [모두의 딥러닝](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&ab_channel=SungKim) by 홍콩과기대 김성훈 교수님
+- 머신러닝 전반에 대한 교재
+    - [핸즈온 머신러닝 2판](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237677114)
