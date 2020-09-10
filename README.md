@@ -95,3 +95,8 @@
 - [Kahoot](https://kahoot.it) - 퀴즈때 사용할 서비스입니다.
 - [Cohoot](https://cohoot.link) - 수업 중 코드 복/붙을 위한 서비스입니다.
 - [Yscec](https://yscec.yonsei.ac.kr/course/view.php?id=171934) - 성적 확인용입니다.
+
+
+## Resources
+- 딥러닝 기본: [모두의 딥러닝](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&ab_channel=SungKim) by 홍콩과기대 김성훈 교수님
+- 머신러닝 전반에 대한 교재: [핸즈온 머신러닝](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237677114)
