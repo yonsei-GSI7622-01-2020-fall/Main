@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My First Application</title>
+        <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+        <style>
+            #text-input{
+                white-space:pre-wrap;
+            }
+            #result{
+                background-color:#eee;
+                width:300px;
+                height:100px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Text Statistics</h1>
+        <h2>Input</h2>
+        <textarea id="text-input" rows="10" cols="50"></textarea>
+        <h2>Result</h2>
+        <pre id="result"></pre>
+        <script>
+            $(document).ready(function(){
+
+
+                    $('#text-input').bind('input propertychange', function() {
+                        var text = $('#text-input').val();
+                            
+                        $.post( "/analyze",{data:text}, function( data ) {
+                            var result = "";
+                            for (const [key, value] of Object.entries(data)) {
+                                result+=key+" : "+value+" \n";
+                            }
+
+                          $( "#result" ).text( result);
+                        });
+                    });
+            });
+        </script>
+    </body>
+</html>
