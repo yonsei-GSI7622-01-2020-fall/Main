@@ -30,11 +30,12 @@
 
 | Class |          Date          |  Topic  |        Detail      |        Assignment         | FAQ |
 |:-----:|:----------------------:|:-------:|:------------------:|:-------------------------:|:---:|
-|  1 |  9월 5일                 | | [Lecture 1] | [Assignment 1] | |
+|  1 |  9월 5일                 | | [Lecture 1] | [Assignment 1] | [FAQ 1] |
 |  2 |  9월 12일                | | Lecture 2 |  TBD | |
 |  3 |  9월 19일                | | Lecture 3 | TBD | |
 |  4 |  9월 26일                | | Lecture 4 | TBD | |
 |  - |  10월 3일                | | **추석연휴** | TBD | |
+|  - |  10월 10일                | | **한글날 연휴** | TBD | |
 |  5 |  10월 10일               | | Lecture 5 | TBD | |
 |  6 |  10월 17일               | | Lecture 6 | TBD | |
 |  7 |  10월 24일               | | Lecture 7 | TBD | |
@@ -58,13 +59,14 @@
 [Lecture 10]: lecture/week-10
 
 [Assignment 1]: assignment/week-01/README.md
+[FAQ 1]: FAQ.md
 
 ## Assignment Schedule 
 
 
 |                        Assignment                         | Date Assigned |   Due Date   | Tutorial | Point |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------:|:------------:|
-| [Assignment 1]                      |  토, 9월 5일  |  금, 9월 11일 | [Video]() | 1 |
+| [Assignment 1]                      |  토, 9월 5일  |  금, 9월 11일 | [Video](https://www.loom.com/share/4ceceb7d5753439b860c06766026a69b) | 1 |
 
 
 
@@ -79,22 +81,13 @@
 - 매주 제출하는 과제는, 최대 1시간정도 소요되는 수준으로 출제될것이며, 과제형태는 매주 다르게 나옵니다. 그에 따라 채점 방식또한 그때 그때 상이합니다.
 - 해당 주차에 대한 복습을 위한 목적이 강하므로, 너무 스트레스 받지 마세요. :smile:
 
-### Projects
-- 프로젝트는 최대 2인 1팀으로 구성합니다. 1인 1팀도 가능합니다.
-- 중간 발표는 프로젝트 주제를 정하고, 어떠한 데이터를 사용하여 무엇을 왜 하겠다 형식으로 발표를 합니다. (최대 5분, 동영상으로 제출)
-- 중간 발표는 채점용이 아닌, 과제에 적합성에 대해 피드백을 받는 과정입니다.
-- 기말 발표는 중간 발표 이후, 진행과정과 결과에 대해서 발표합니다. (최대 10분)
-- [Project 관련](https://github.com/yonsei-gsi-bigdata-2020-fall/Main/tree/master/project)
-
 ## Evaluation
 
-
 - 참여점수 (40%)
-    - 매주 제출되는 과제 (20%)
-    - 출석 (20%)
+    - 출석 (40%)
     - 슬랙을 활용한 참여도 (*추가점수* 최대 5%)
-- 프로젝트 점수 (60%)
-    - (TBD)자세한 평가기준은 추후 공개
+- 과제 점수 (60%)
+    - 매주 제출되는 과제 
 
 ## Tools
 
@@ -102,3 +95,12 @@
 - [Kahoot](https://kahoot.it) - 퀴즈때 사용할 서비스입니다.
 - [Cohoot](https://cohoot.link) - 수업 중 코드 복/붙을 위한 서비스입니다.
 - [Yscec](https://yscec.yonsei.ac.kr/course/view.php?id=171934) - 성적 확인용입니다.
+
+
+## Resources
+- 머신러닝 기본
+    - [Machine Learning](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne) by Andrew Ng
+- 딥러닝 기본
+    - [모두의 딥러닝](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&ab_channel=SungKim) by 홍콩과기대 김성훈 교수님
+- 머신러닝 전반에 대한 교재
+    - [핸즈온 머신러닝 2판](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237677114)
