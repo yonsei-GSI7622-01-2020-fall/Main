@@ -59,7 +59,7 @@
 [Lecture 10]: lecture/week-10
 
 [Assignment 1]: assignment/week-01/README.md
-[Assignment 2]: assignment/week-01/README.md
+[Assignment 2]: assignment/week-02/README.md
 [FAQ 1]: FAQ.md
 
 ## Assignment Schedule 
