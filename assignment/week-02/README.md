@@ -10,7 +10,7 @@
 git pull
 <수정작업>
 git add .
-git commit -m "Submit assignment 1"
+git commit -m "Submit assignment 2"
 git push origin master
 ```
 
