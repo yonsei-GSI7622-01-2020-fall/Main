@@ -68,6 +68,7 @@
 |                        Assignment                         | Date Assigned |   Due Date   | Tutorial | Point |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------:|:------------:|
 | [Assignment 1]                      |  토, 9월 5일  |  금, 9월 11일 | [Video](https://www.loom.com/share/4ceceb7d5753439b860c06766026a69b) | 1 |
+| [Assignment 2]                      |  토, 9월 12일  |  금, 9월 18일 | [Video](https://www.loom.com/share/3239910db8f94092a4a2f7fb2b7f8668) | 10 |
 
 
 
