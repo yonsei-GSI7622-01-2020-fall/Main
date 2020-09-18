@@ -30,9 +30,9 @@
 
 | Class |          Date          |  Topic  |        Detail      |        Assignment         | FAQ |
 |:-----:|:----------------------:|:-------:|:------------------:|:-------------------------:|:---:|
-|  1 |  9월 5일                 | | [Lecture 1] | [Assignment 1] | [FAQ 1] |
-|  2 |  9월 12일                | | [Lecture 2] |  [Assignment 2] | |
-|  3 |  9월 19일                | | Lecture 3 | TBD | |
+|  1 |  9월 5일                 | 수업소개, 환경설정 | [Lecture 1] | [Assignment 1] | [FAQ 1] |
+|  2 |  9월 12일                | 텍스트 분석기 | [Lecture 2] |  [Assignment 2] | |
+|  3 |  9월 19일                | 이미지 변환기 | Lecture 3 | TBD | |
 |  4 |  9월 26일                | | Lecture 4 | TBD | |
 |  - |  10월 3일                | | **추석연휴** | TBD | |
 |  - |  10월 10일                | | **한글날 연휴** | TBD | |
