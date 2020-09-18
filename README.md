@@ -32,7 +32,7 @@
 |:-----:|:----------------------:|:-------:|:------------------:|:-------------------------:|:---:|
 |  1 |  9월 5일                 | 수업소개, 환경설정 | [Lecture 1] | [Assignment 1] | [FAQ 1] |
 |  2 |  9월 12일                | 텍스트 분석기 | [Lecture 2] |  [Assignment 2] | |
-|  3 |  9월 19일                | 이미지 변환기 | Lecture 3 | TBD | |
+|  3 |  9월 19일                | 이미지 변환기 | [Lecture 3] | [Assignment 3] | |
 |  4 |  9월 26일                | | Lecture 4 | TBD | |
 |  - |  10월 3일                | | **추석연휴** | TBD | |
 |  - |  10월 10일                | | **한글날 연휴** | TBD | |
@@ -60,6 +60,7 @@
 
 [Assignment 1]: assignment/week-01/README.md
 [Assignment 2]: assignment/week-02/README.md
+[Assignment 3]: assignment/week-03/README.md
 [FAQ 1]: FAQ.md
 
 ## Assignment Schedule 
@@ -69,6 +70,7 @@
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------:|:------------:|
 | [Assignment 1]                      |  토, 9월 5일  |  금, 9월 11일 | [Video](https://www.loom.com/share/4ceceb7d5753439b860c06766026a69b) | 1 |
 | [Assignment 2]                      |  토, 9월 12일  |  금, 9월 18일 | [Video](https://www.loom.com/share/3239910db8f94092a4a2f7fb2b7f8668) | 10 |
+| [Assignment 3]                      |  토, 9월 19일  |  금, 9월 27일 | TBD| 10 |
 
 
 
