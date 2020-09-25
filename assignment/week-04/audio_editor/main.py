@@ -6,7 +6,6 @@ import numpy as np
 import scipy
 import scipy.io.wavfile
 import librosa
-import librosa.display
 import soundfile as sf
 from datetime import datetime
 
@@ -42,4 +41,4 @@ def convert():
 
 
 if __name__ == '__main__':
-    app.run(host="127.0.0.1", debug=True)
+    app.run(host="0.0.0.0", port=5003, debug=True)
