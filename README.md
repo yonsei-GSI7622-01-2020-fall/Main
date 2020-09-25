@@ -33,7 +33,7 @@
 |  1 |  9월 5일                 | 수업소개, 환경설정 | [Lecture 1] | [Assignment 1] | [FAQ 1] |
 |  2 |  9월 12일                | 텍스트 분석기 | [Lecture 2] |  [Assignment 2] | |
 |  3 |  9월 19일                | 이미지 변환기 | [Lecture 3] | [Assignment 3] | |
-|  4 |  9월 26일                | 오디오 변환기 | Lecture 4 | [Assignment 4] | |
+|  4 |  9월 26일                | 오디오 변환기 | [Lecture 4] | [Assignment 4] | |
 |  - |  10월 3일                | | **추석연휴** | TBD | |
 |  - |  10월 10일                | | **한글날 연휴** | TBD | |
 |  5 |  10월 10일               | | Lecture 5 | TBD | |
