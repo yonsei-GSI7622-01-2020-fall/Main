@@ -36,12 +36,12 @@
 |  4 |  9월 26일                | 오디오 변환기 | [Lecture 4] | [Assignment 4] | |
 |  - |  10월 3일                | | **추석연휴** | TBD | |
 |  - |  10월 10일                | | **한글날 연휴** | TBD | |
-|  5 |  10월 10일               | | Lecture 5 | TBD | |
-|  6 |  10월 17일               | | Lecture 6 | TBD | |
-|  7 |  10월 24일               | | Lecture 7 | TBD | |
-|  8 |  10월 31일               | | Lecture 8 | TBD | |
-|  9 |  11월 7일                | | Lecture 9 | TBD | |
-|  10 |  11월 14일              | | Lecture 10 | TBD | |
+|  5 |  10월 17일               | | Lecture 5 | TBD | |
+|  6 |  10월 24일               | | Lecture 6 | TBD | |
+|  7 |  10월 31일               | | Lecture 7 | TBD | |
+|  8 |  11월 7일               | | Lecture 8 | TBD | |
+|  9 |  11월 14일                | | Lecture 9 | TBD | |
+|  10 |  11월 21일              | | Lecture 10 | TBD | |
 
 
 
