@@ -72,7 +72,7 @@
 | [Assignment 1]                      |  토, 9월 5일  |  금, 9월 11일 | [Video](https://www.loom.com/share/4ceceb7d5753439b860c06766026a69b) | 1 |
 | [Assignment 2]                      |  토, 9월 12일  |  금, 9월 18일 | [Video](https://www.loom.com/share/3239910db8f94092a4a2f7fb2b7f8668) | 10 |
 | [Assignment 3]                      |  토, 9월 19일  |  금, 9월 25일 | [Video](https://www.loom.com/share/d9e91d8d0bda416db2117d5bac7ae024) | 10 |
-| [Assignment 4]                      |  토, 9월 26일  |  금, 10월 16일 | [Video]() | 10 |
+| [Assignment 4]                      |  토, 9월 26일  |  금, 10월 16일 | [Video](https://www.loom.com/share/173d131b1c2540a881f386eb904f06e7) | 10 |
 
 
 
