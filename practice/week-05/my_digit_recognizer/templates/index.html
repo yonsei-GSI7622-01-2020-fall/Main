@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Third Application</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+          <meta charset="UTF-8">
+    </head>
+    <body>
+        <div class="container">
+            <h1>Digit Recognizer</h1>
+            <p>숫자를 쓰시면 인식하겠습니다.</p>
+            <div id="controls" >
+                <canvas id="canvas" style="border:1px solid black;"></canvas> 
+                <button onclick="check(0);">Check using Scikit Learn</button>
+                <button onclick="check(1);">Check using TensorFlow</button>
+            </div>
+            <div>
+                <p>현재 그리는 숫자는:<span id="result"></span></p>
+                
+            </div> 
+        </div>
+        <script>
+
+
+            //Source: https://www.geeksforgeeks.org/how-to-draw-with-mouse-in-html-5-canvas/
+                    // wait for the content of the window element 
+            // to load, then performs the operations. 
+            // This is considered best practice. 
+            window.addEventListener('load', ()=>{ 
+                    
+                    resize(); // Resizes the canvas once the window loads 
+                    document.addEventListener('mousedown', startPainting); 
+                    document.addEventListener('mouseup', stopPainting); 
+                    document.addEventListener('mousemove', sketch); 
+                    window.addEventListener('resize', resize); 
+                }); 
+                    
+                const canvas = document.querySelector('#canvas'); 
+                
+                // Context for the canvas for 2 dimensional operations 
+                const ctx = canvas.getContext('2d'); 
+                    
+                // Resizes the canvas to the available size of the window. 
+                function resize(){ 
+                ctx.canvas.width = 300; 
+                ctx.canvas.height = 300; 
+                } 
+                    
+                // Stores the initial position of the cursor 
+                let coord = {x:0 , y:0}; 
+                
+                // This is the flag that we are going to use to 
+                // trigger drawing 
+                let paint = false; 
+                    
+                // Updates the coordianates of the cursor when 
+                // an event e is triggered to the coordinates where 
+                // the said event is triggered. 
+                function getPosition(event){ 
+                coord.x = event.clientX - canvas.offsetLeft; 
+                coord.y = event.clientY - canvas.offsetTop; 
+                } 
+                
+                // The following functions toggle the flag to start 
+                // and stop drawing 
+                function startPainting(event){ 
+                paint = true; 
+                getPosition(event); 
+                } 
+                function stopPainting(){ 
+                paint = false; 
+                } 
+                    
+                function sketch(event){ 
+                if (!paint) return; 
+                ctx.beginPath(); 
+                    
+                ctx.lineWidth = 25; 
+                
+                // Sets the end of the lines drawn 
+                // to a round shape. 
+                ctx.lineCap = 'round'; 
+                    
+                ctx.strokeStyle = 'black'; 
+                    
+                // The cursor to start drawing 
+                // moves to this coordinate 
+                ctx.moveTo(coord.x, coord.y); 
+                
+                // The position of the cursor 
+                // gets updated as we move the 
+                // mouse around. 
+                getPosition(event); 
+                
+                // A line is traced from start 
+                // coordinate to this coordinate 
+                ctx.lineTo(coord.x , coord.y); 
+                    
+                // Draws the line. 
+                ctx.stroke(); 
+                } 
+    
+    function check(type){
+        const canvas = document.querySelector('#canvas'); 
+        var dataURL = canvas.toDataURL();
+
+        // Context for the canvas for 2 dimensional operations 
+        // const ctx = canvas.getContext('2d'); 
+        // var image = ctx.getImageData(0,0,300,300);
+        console.log(dataURL);
+        $.post( "/recognize",{data:dataURL, type:type}, function( data ) {
+            var result = "";
+            
+            // document.getElementById("result")
+            $( "#result" ).html(data);
+        });
+                    
+    }
+     </script>
+    </body>
+</html>

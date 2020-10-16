@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Second Application</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        
+        <div class="container">
+            <h1>OCR</h1>
+            <div class="row">
+                <div class="col-lg-4">
+                <form>
+                    <div class="form-group" >
+                    <div class="input-group mb-3">
+                      <label for="exampleFormControlFile1">OCR 하시려는 이미지를 업로드해주세요</label>
+                      <input type="file" class="form-control-file" id="imageFile">
+                      </div>
+                    </div>
+                  </form>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <img id="img-before" src="https://via.placeholder.com/500" class="img-fluid" alt="Responsive image">
+                </div>
+            
+            
+            
+                <div class="col">
+                    <img id="img-after"src="https://via.placeholder.com/500" class="img-fluid" alt="Responsive image">
+                </div>
+            </div>
+            <div class="row">
+                <p id="result" style="background-color: #999;"></p>
+            </div>
+        </div>
+        <script>
+            $(document).ready(function(){
+
+                $('#imageFile').on('change', function(){
+
+                    var fd = new FormData();
+                    var files = $('#imageFile')[0].files[0];
+                    
+                    if (!files){
+                        return;
+                    }
+                    fd.append('file',files);
+                    var reader = new FileReader();
+                    reader.onload = function (e) {
+                        $('#img-before').attr('src', e.target.result);
+                    }
+                    reader.readAsDataURL(files);
+
+                    $.ajax({
+                        url: '/ocr',
+                        type: 'post',
+                        data: fd,
+                        contentType: false,
+                        processData: false,
+                        success: function(response){
+                            if(response != 0){
+                                
+                                $("#img-after").attr('src',response.image);
+                                $('#result').html(response.ocr_info)
+                            }else{
+                                alert('file not uploaded');
+                            }
+                        },
+                    });
+                });
+                });
+
+        </script>
+    </body>
+</html>
