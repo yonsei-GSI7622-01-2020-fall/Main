@@ -36,7 +36,7 @@
 |  4 |  9월 26일                | 오디오 변환기 | [Lecture 4] | [Assignment 4] | |
 |  - |  10월 3일                | | **추석연휴** | TBD | |
 |  - |  10월 10일                | | **한글날 연휴** | TBD | |
-|  5 |  10월 17일               | | [Lecture 5] | [Assignment 5] | |
+|  5 |  10월 17일               | OCR | [Lecture 5] | [Assignment 5] | |
 |  6 |  10월 24일               | | Lecture 6 | TBD | |
 |  7 |  10월 31일               | | Lecture 7 | TBD | |
 |  8 |  11월 7일               | | Lecture 8 | TBD | |
