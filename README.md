@@ -36,7 +36,7 @@
 |  4 |  9월 26일                | 오디오 변환기 | [Lecture 4] | [Assignment 4] | |
 |  - |  10월 3일                | | **추석연휴** | TBD | |
 |  - |  10월 10일                | | **한글날 연휴** | TBD | |
-|  5 |  10월 17일               | | Lecture 5 | TBD | |
+|  5 |  10월 17일               | | [Lecture 5] | [Assignment 5] | |
 |  6 |  10월 24일               | | Lecture 6 | TBD | |
 |  7 |  10월 31일               | | Lecture 7 | TBD | |
 |  8 |  11월 7일               | | Lecture 8 | TBD | |
@@ -62,6 +62,7 @@
 [Assignment 2]: assignment/week-02/README.md
 [Assignment 3]: assignment/week-03/README.md
 [Assignment 4]: assignment/week-04/README.md
+[Assignment 5]: assignment/week-05/README.md
 [FAQ 1]: FAQ.md
 
 ## Assignment Schedule 
@@ -73,6 +74,7 @@
 | [Assignment 2]                      |  토, 9월 12일  |  금, 9월 18일 | [Video](https://www.loom.com/share/3239910db8f94092a4a2f7fb2b7f8668) | 10 |
 | [Assignment 3]                      |  토, 9월 19일  |  금, 9월 25일 | [Video](https://www.loom.com/share/d9e91d8d0bda416db2117d5bac7ae024) | 10 |
 | [Assignment 4]                      |  토, 9월 26일  |  금, 10월 16일 | [Video](https://www.loom.com/share/173d131b1c2540a881f386eb904f06e7) | 10 |
+| [Assignment 5]                      |  토, 10월 17일  |  금, 10월 30일 |  | 20 |
 
 
 
