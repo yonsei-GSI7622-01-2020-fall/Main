@@ -16,5 +16,5 @@ pip install Pillow
 pip install scikit-build
 pip install opencv-contrib-python
 pip install numpy
-pip install torch --no
+pip install torch --no-cache-dir
 pip install easyocr
