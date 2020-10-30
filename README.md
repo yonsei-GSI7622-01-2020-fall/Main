@@ -82,7 +82,6 @@
 
 ## Class Assignments
 
-과제는 크게 두가지로 분류됩니다. 매주 제출해야하는 과제가 있기, 중간발표/기말발표가 있는 프로젝트가 있습니다.
 
 ### Weekly Assignments
 
