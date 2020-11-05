@@ -38,7 +38,7 @@
 |  - |  10월 10일                | | **한글날 연휴** | TBD | |
 |  5 |  10월 17일               | OCR | [Lecture 5] | [Assignment 5] | |
 |  6 |  10월 24일               | Search Engine 1 | [Lecture 6] | None | |
-|  7 |  10월 31일               | Search Engine 2 | Lecture 7 | TBD | |
+|  7 |  10월 31일               | Search Engine 2 | [Lecture 7] | TBD | |
 |  8 |  11월 7일               | | Lecture 8 | TBD | |
 |  9 |  11월 14일                | | Lecture 9 | TBD | |
 |  10 |  11월 21일              | | Lecture 10 | TBD | |
