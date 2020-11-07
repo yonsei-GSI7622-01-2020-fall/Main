@@ -8,3 +8,4 @@ sudo chown -R logstash.logstash /usr/share/logstash
 sudo chmod 777 /usr/share/logstash/data
 /usr/share/logstash/bin/logstash -e 'input { stdin { } } output { stdout {} }'
 /usr/share/logstash/bin/logstash -e 'input { http { } } output { stdout {} }'
+/usr/share/logstash/bin/logstash -f logstash.conf
