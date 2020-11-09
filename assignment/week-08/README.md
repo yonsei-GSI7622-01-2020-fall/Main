@@ -1,11 +1,12 @@
 # 8주차 과제
 
-
+![flow_image](flow.png)
 ## 과제 설명 (총 20점)
-8주차 과제는 크게 두가지 테스크로 나뉩니다.
-1. Educate 계정을 사용하여, logstash 실행하기 (10점)
-   1. t2.medium
-2. Kibana에 대쉬보드 그리기 (10점)
+8주차 과제의 진행방식은 다음과 같습니다.
+1. 로컬에서 Elasticsearch 환경 구성하기
+2. t2.medium에 logstash 환경 구성하기
+3. 로컬에서 logstash로 가상의 데이터 보내기
+4. Kibana에 대쉬보드 그리기
 
 ## 제출 방법
 ### 1. 로컬환경에서 수정 후 EC2 인스턴스에 배포
