@@ -39,7 +39,7 @@
 |  5 |  10월 17일               | OCR | [Lecture 5] | [Assignment 5] | |
 |  6 |  10월 24일               | Search Engine 1 | [Lecture 6] | None | |
 |  7 |  10월 31일               | Search Engine 2 | [Lecture 7] | None | |
-|  8 |  11월 7일               | ELK stack | [Lecture 8] | None | |
+|  8 |  11월 7일               | ELK stack | [Lecture 8] | [Assignment 6] | |
 |  9 |  11월 14일                | | Lecture 9 | TBD | |
 |  10 |  11월 21일              | | Lecture 10 | TBD | |
 
@@ -63,6 +63,7 @@
 [Assignment 3]: assignment/week-03/README.md
 [Assignment 4]: assignment/week-04/README.md
 [Assignment 5]: assignment/week-05/README.md
+[Assignment 6]: assignment/week-08/README.md
 [FAQ 1]: FAQ.md
 
 ## Assignment Schedule 
@@ -75,7 +76,7 @@
 | [Assignment 3]                      |  토, 9월 19일  |  금, 9월 25일 | [Video](https://www.loom.com/share/d9e91d8d0bda416db2117d5bac7ae024) | 10 |
 | [Assignment 4]                      |  토, 9월 26일  |  금, 10월 16일 | [Video](https://www.loom.com/share/173d131b1c2540a881f386eb904f06e7) | 10 |
 | [Assignment 5]                      |  토, 10월 17일  |  금, 10월 30일 | [Video](https://www.loom.com/share/b38ab4a451ed45e795299e5f720afbff) | 20 |
-
+| [Assignment 6]                      |  월, 11월 9일  |  금, 11월 20일 | [Video](https://www.loom.com/share/bddeb4ee4f404142a58f6dd7bac68e0b) | 30 |
 
 
 
