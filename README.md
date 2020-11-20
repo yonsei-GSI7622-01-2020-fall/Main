@@ -40,8 +40,8 @@
 |  6 |  10월 24일               | Search Engine 1 | [Lecture 6] | None | |
 |  7 |  10월 31일               | Search Engine 2 | [Lecture 7] | None | |
 |  8 |  11월 7일               | ELK stack | [Lecture 8] | [Assignment 6] | |
-|  9 |  11월 14일                | 추천 시스템 | [Lecture 9] | TBD | |
-|  10 |  11월 21일              | | Lecture 10 | TBD | |
+|  9 |  11월 14일                | 추천 시스템 | [Lecture 9] | None | |
+|  10 |  11월 21일              | AI/ML Services | [Lecture 10] | None | |
 
 
 
